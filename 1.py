@@ -1,3 +1,3 @@
 def hello():
-    return "hello world test"
+    return "hello world test2"
 print(hello())
